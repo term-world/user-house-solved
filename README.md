@@ -1,3 +1,5 @@
+[![GatorGrader](../../actions/workflows/main.yml/badge.svg)](../../actions/workflows/main.yml)
+
 # `SUDDEN SURGE OF RESIDENTIAL RENTERS: LOCAL LANDLORD MAKES A MODEST MINT`
 
 *Reported by `The Reporter` from `Andra`, on 31 August, 2022.*
