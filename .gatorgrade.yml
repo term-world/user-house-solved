@@ -11,11 +11,11 @@
 - description: Find the Ink hidden in the couch
   check: ExecuteCommand
   options:
-    command: ls $(jq -r .ink .flags)/Ink.py
+    command: find . -name Ink.py
 - description: Print the lease
   check: ExecuteCommand
   options:
-    command: ls $(jq -r .printer .flags)/Lease.md
+    command: find . -name Lease.md
 # EVENTS
 - description: Enter the house
   check: ExecuteCommand
