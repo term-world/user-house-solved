@@ -21,6 +21,10 @@
   check: ExecuteCommand
   options:
     command: jq .kitchen .flags
+- description: Read the nonte
+  check: ExecuteCommand
+  options:
+    command: jq .note_read .flags
 # BOXES
 - description: Open the UltraHeavyBox
   check: CountCommandOutput
