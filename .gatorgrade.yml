@@ -21,7 +21,7 @@
   check: ExecuteCommand
   options:
     command: jq .kitchen .flags
-- description: Read the nonte
+- description: Read the note
   check: ExecuteCommand
   options:
     command: jq .note_read .flags
