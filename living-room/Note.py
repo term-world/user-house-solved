@@ -18,7 +18,7 @@ def main():
         })
         n.path.change(q.ask())
         if n.path.scene == 0.7:
-            os.remove("note.py")
+            os.remove("Note.py")
         n.narrate()
         return
 
