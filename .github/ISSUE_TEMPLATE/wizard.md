@@ -2,7 +2,7 @@
 name: wizard
 about: Template for Wizard reports
 title: ''
-labels: ''
+labels: 'bug'
 assignees: ''
 
 ---
